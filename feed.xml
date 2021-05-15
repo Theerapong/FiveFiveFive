@@ -3,12 +3,32 @@
     <title>FiveFiveFive</title>
     <link href="http://fivefivefive.cloud/feed.xml" rel="self" />
     <link href="http://fivefivefive.cloud" />
-    <updated>2021-05-15T23:35:05+07:00</updated>
+    <updated>2021-05-15T23:40:43+07:00</updated>
     <author>
         <name>Eight</name>
     </author>
     <id>http://fivefivefive.cloud</id>
 
+    <entry>
+        <title>Services</title>
+        <author>
+            <name>Eight</name>
+        </author>
+        <link href="http://fivefivefive.cloud/services/"/>
+        <id>http://fivefivefive.cloud/services/</id>
+
+        <updated>2021-05-15T23:40:43+07:00</updated>
+            <summary>
+                <![CDATA[
+                    บริการรรรรร 👍🏼👍🏼👍🏼👍🏼👍🏼
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>บริการรรรรร 👍🏼👍🏼👍🏼👍🏼👍🏼</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact</title>
         <author>
