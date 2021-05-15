@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>FiveFiveFive</title>
-    <link href="http://www.fivefivefive.cloud/feed.xml" rel="self" />
-    <link href="http://www.fivefivefive.cloud" />
+    <link href="//fivefivefive.cloud/feed.xml" rel="self" />
+    <link href="//fivefivefive.cloud" />
     <updated>2021-05-15T23:14:31+07:00</updated>
     <author>
         <name>Eight</name>
     </author>
-    <id>http://www.fivefivefive.cloud</id>
+    <id>//fivefivefive.cloud</id>
 
     <entry>
         <title>Contact</title>
         <author>
             <name>Eight</name>
         </author>
-        <link href="http://www.fivefivefive.cloud/contact/"/>
-        <id>http://www.fivefivefive.cloud/contact/</id>
+        <link href="//fivefivefive.cloud/contact/"/>
+        <id>//fivefivefive.cloud/contact/</id>
 
         <updated>2021-05-15T23:14:31+07:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Eight</name>
         </author>
-        <link href="http://www.fivefivefive.cloud/niikhuue-wggggg-w/"/>
-        <id>http://www.fivefivefive.cloud/niikhuue-wggggg-w/</id>
+        <link href="//fivefivefive.cloud/niikhuue-wggggg-w/"/>
+        <id>//fivefivefive.cloud/niikhuue-wggggg-w/</id>
 
         <updated>2021-05-15T22:11:14+07:00</updated>
             <summary>
@@ -55,8 +55,8 @@
         <author>
             <name>Eight</name>
         </author>
-        <link href="http://www.fivefivefive.cloud/niikhuue-block-editor/"/>
-        <id>http://www.fivefivefive.cloud/niikhuue-block-editor/</id>
+        <link href="//fivefivefive.cloud/niikhuue-block-editor/"/>
+        <id>//fivefivefive.cloud/niikhuue-block-editor/</id>
 
         <updated>2021-05-15T22:34:55+07:00</updated>
             <summary>
@@ -90,8 +90,8 @@
         <author>
             <name>Eight</name>
         </author>
-        <link href="http://www.fivefivefive.cloud/ophsaihm/"/>
-        <id>http://www.fivefivefive.cloud/ophsaihm/</id>
+        <link href="//fivefivefive.cloud/ophsaihm/"/>
+        <id>//fivefivefive.cloud/ophsaihm/</id>
 
         <updated>2021-05-15T22:03:47+07:00</updated>
             <summary>
