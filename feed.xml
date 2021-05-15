@@ -3,12 +3,56 @@
     <title>FiveFiveFive</title>
     <link href="http://fivefivefive.cloud/feed.xml" rel="self" />
     <link href="http://fivefivefive.cloud" />
-    <updated>2021-05-15T23:43:10+07:00</updated>
+    <updated>2021-05-15T23:59:12+07:00</updated>
     <author>
         <name>Eight</name>
     </author>
     <id>http://fivefivefive.cloud</id>
 
+    <entry>
+        <title>Page - contact</title>
+        <author>
+            <name>Eight</name>
+        </author>
+        <link href="http://fivefivefive.cloud/page-contact/"/>
+        <id>http://fivefivefive.cloud/page-contact/</id>
+
+        <updated>2021-05-15T23:59:12+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Page - Service</title>
+        <author>
+            <name>Eight</name>
+        </author>
+        <link href="http://fivefivefive.cloud/page-service/"/>
+        <id>http://fivefivefive.cloud/page-service/</id>
+
+        <updated>2021-05-15T23:59:03+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Page - Home</title>
+        <author>
+            <name>Eight</name>
+        </author>
+        <link href="http://fivefivefive.cloud/home/"/>
+        <id>http://fivefivefive.cloud/home/</id>
+
+        <updated>2021-05-15T23:58:56+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hommmmmmm
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hommmmmmm</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Services</title>
         <author>
