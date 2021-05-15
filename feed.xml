@@ -3,36 +3,12 @@
     <title>FiveFiveFive</title>
     <link href="http://fivefivefive.cloud/feed.xml" rel="self" />
     <link href="http://fivefivefive.cloud" />
-    <updated>2021-05-16T00:35:24+07:00</updated>
+    <updated>2021-05-16T00:37:55+07:00</updated>
     <author>
         <name>Eight</name>
     </author>
     <id>http://fivefivefive.cloud</id>
 
-    <entry>
-        <title>Page - contact</title>
-        <author>
-            <name>Eight</name>
-        </author>
-        <link href="http://fivefivefive.cloud/page-contact/"/>
-        <id>http://fivefivefive.cloud/page-contact/</id>
-
-        <updated>2021-05-15T23:59:12+07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Page - Service</title>
-        <author>
-            <name>Eight</name>
-        </author>
-        <link href="http://fivefivefive.cloud/page-service/"/>
-        <id>http://fivefivefive.cloud/page-service/</id>
-
-        <updated>2021-05-15T23:59:03+07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Services</title>
         <author>
@@ -54,26 +30,6 @@
         </content>
     </entry>
     <entry>
-        <title>Services</title>
-        <author>
-            <name>Eight</name>
-        </author>
-        <link href="http://fivefivefive.cloud/services/"/>
-        <id>http://fivefivefive.cloud/services/</id>
-
-        <updated>2021-05-15T23:40:43+07:00</updated>
-            <summary>
-                <![CDATA[
-                    บริการรรรรร 👍🏼👍🏼👍🏼👍🏼👍🏼
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>บริการรรรรร 👍🏼👍🏼👍🏼👍🏼👍🏼</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Contact</title>
         <author>
             <name>Eight</name>
@@ -81,15 +37,15 @@
         <link href="http://fivefivefive.cloud/contact/"/>
         <id>http://fivefivefive.cloud/contact/</id>
 
-        <updated>2021-05-15T23:43:10+07:00</updated>
+        <updated>2021-05-16T00:37:55+07:00</updated>
             <summary>
                 <![CDATA[
-                    I am 555 Phone +66 999999999
+                    Text to me Phone +66 999999999
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I am 555</p>
+                <p>Text to me</p>
 <p>Phone +66 999999999</p>
             ]]>
         </content>
