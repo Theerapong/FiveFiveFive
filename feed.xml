@@ -3,52 +3,12 @@
     <title>FiveFiveFive</title>
     <link href="http://fivefivefive.cloud/feed.xml" rel="self" />
     <link href="http://fivefivefive.cloud" />
-    <updated>2021-05-16T00:51:12+07:00</updated>
+    <updated>2021-05-15T22:34:55+07:00</updated>
     <author>
         <name>Eight</name>
     </author>
     <id>http://fivefivefive.cloud</id>
 
-    <entry>
-        <title>Services</title>
-        <author>
-            <name>Eight</name>
-        </author>
-        <link href="http://fivefivefive.cloud/home/"/>
-        <id>http://fivefivefive.cloud/home/</id>
-
-        <updated>2021-05-16T00:51:08+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Services we provide to you 👍🏼
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3>Services we provide to you 👍🏼</h3>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Eight</name>
-        </author>
-        <link href="http://fivefivefive.cloud/contact/"/>
-        <id>http://fivefivefive.cloud/contact/</id>
-
-        <updated>2021-05-16T00:51:12+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Text to me 👉🏼 Phone +66 999999999
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3>Text to me 👉🏼 Phone +66 999999999</h3>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>นี่คือ wggggg W???</title>
         <author>
