@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://fivefivefive.cloud/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://fivefivefive.cloud/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://fivefivefive.cloud/</loc>
+<loc>https://fivefivefive.cloud/</loc>
 </url>
 <url>
-<loc>http://fivefivefive.cloud/contact/</loc>
+<loc>https://fivefivefive.cloud/contact/</loc>
 <lastmod>2021-05-16T00:52:09+07:00</lastmod>
 </url>
 <url>
-<loc>http://fivefivefive.cloud/home/</loc>
+<loc>https://fivefivefive.cloud/home/</loc>
 <lastmod>2021-05-16T00:52:05+07:00</lastmod>
 </url>
 <url>
-<loc>http://fivefivefive.cloud/niikhuue-block-editor/</loc>
+<loc>https://fivefivefive.cloud/niikhuue-block-editor/</loc>
 <lastmod>2021-05-15T22:34:55+07:00</lastmod>
 </url>
 <url>
-<loc>http://fivefivefive.cloud/niikhuue-wggggg-w/</loc>
+<loc>https://fivefivefive.cloud/niikhuue-wggggg-w/</loc>
 <lastmod>2021-05-15T22:11:14+07:00</lastmod>
 </url>
 <url>
-<loc>http://fivefivefive.cloud/ophsaihm/</loc>
+<loc>https://fivefivefive.cloud/ophsaihm/</loc>
 <lastmod>2021-05-15T22:03:47+07:00</lastmod>
 </url>
 </urlset>

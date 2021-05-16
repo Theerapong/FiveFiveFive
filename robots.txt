@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://fivefivefive.cloud/sitemap.xml
+Sitemap: https://fivefivefive.cloud/sitemap.xml
