@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>FiveFiveFive.cloud</title>
-    <link href="https://fivefivefive.cloud/feed.xml" rel="self" />
-    <link href="https://fivefivefive.cloud" />
+    <link href="https://xsolutions.cloud/feed.xml" rel="self" />
+    <link href="https://xsolutions.cloud" />
     <updated>2021-05-23T16:46:15+07:00</updated>
     <author>
         <name>Jam</name>
     </author>
-    <id>https://fivefivefive.cloud</id>
+    <id>https://xsolutions.cloud</id>
 
     <entry>
         <title>โพสเก่า</title>
         <author>
             <name>Jam</name>
         </author>
-        <link href="https://fivefivefive.cloud/niikhuue-wggggg-w/"/>
-        <id>https://fivefivefive.cloud/niikhuue-wggggg-w/</id>
+        <link href="https://xsolutions.cloud/niikhuue-wggggg-w/"/>
+        <id>https://xsolutions.cloud/niikhuue-wggggg-w/</id>
 
         <updated>2021-05-23T16:46:15+07:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Jam</name>
         </author>
-        <link href="https://fivefivefive.cloud/niikhuue-block-editor/"/>
-        <id>https://fivefivefive.cloud/niikhuue-block-editor/</id>
+        <link href="https://xsolutions.cloud/niikhuue-block-editor/"/>
+        <id>https://xsolutions.cloud/niikhuue-block-editor/</id>
 
         <updated>2021-05-23T16:46:05+07:00</updated>
             <summary>
@@ -69,8 +69,8 @@
         <author>
             <name>Jam</name>
         </author>
-        <link href="https://fivefivefive.cloud/ophsaihm/"/>
-        <id>https://fivefivefive.cloud/ophsaihm/</id>
+        <link href="https://xsolutions.cloud/ophsaihm/"/>
+        <id>https://xsolutions.cloud/ophsaihm/</id>
 
         <updated>2021-05-15T22:03:47+07:00</updated>
             <summary>

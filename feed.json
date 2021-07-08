@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FiveFiveFive.cloud",
     "description": "",
-    "home_page_url": "https://fivefivefive.cloud",
-    "feed_url": "https://fivefivefive.cloud/feed.json",
+    "home_page_url": "https://xsolutions.cloud",
+    "feed_url": "https://xsolutions.cloud/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jam"
     },
     "items": [
         {
-            "id": "https://fivefivefive.cloud/niikhuue-wggggg-w/",
-            "url": "https://fivefivefive.cloud/niikhuue-wggggg-w/",
+            "id": "https://xsolutions.cloud/niikhuue-wggggg-w/",
+            "url": "https://xsolutions.cloud/niikhuue-wggggg-w/",
             "title": "โพสเก่า",
             "summary": "ครับลองๆๆๆ #security #cloud #automation",
             "content_html": "<p><strong>ครับลองๆๆๆ #security #cloud #automation</strong></p>",
@@ -24,8 +24,8 @@
             "date_modified": "2021-05-23T16:46:15+07:00"
         },
         {
-            "id": "https://fivefivefive.cloud/niikhuue-block-editor/",
-            "url": "https://fivefivefive.cloud/niikhuue-block-editor/",
+            "id": "https://xsolutions.cloud/niikhuue-block-editor/",
+            "url": "https://xsolutions.cloud/niikhuue-block-editor/",
             "title": "โพสไม่ค่อยใหม่",
             "summary": " okkkkkkkkblo block001 ครับ block002 ",
             "content_html": "\n  <p>\n    okkkkkkkkblo block001\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    ครับ block002\n  </p>\n\n  <p>\n    \n  </p>",
@@ -38,8 +38,8 @@
             "date_modified": "2021-05-23T16:46:05+07:00"
         },
         {
-            "id": "https://fivefivefive.cloud/ophsaihm/",
-            "url": "https://fivefivefive.cloud/ophsaihm/",
+            "id": "https://xsolutions.cloud/ophsaihm/",
+            "url": "https://xsolutions.cloud/ophsaihm/",
             "title": "โพสใหม่",
             "summary": " โพส 001 ",
             "content_html": "\n  <p>\n    โพส 001\n  </p>",
